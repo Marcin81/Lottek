@@ -1,0 +1,78 @@
+<ui version="4.0" >
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog" >
+  <property name="windowModality" >
+   <enum>Qt::WindowModal</enum>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>464</width>
+    <height>176</height>
+   </rect>
+  </property>
+  <property name="minimumSize" >
+   <size>
+    <width>464</width>
+    <height>176</height>
+   </size>
+  </property>
+  <property name="maximumSize" >
+   <size>
+    <width>464</width>
+    <height>176</height>
+   </size>
+  </property>
+  <property name="contextMenuPolicy" >
+   <enum>Qt::NoContextMenu</enum>
+  </property>
+  <property name="windowTitle" >
+   <string>Dialog</string>
+  </property>
+  <property name="windowIcon" >
+   <iconset resource="icons.qrc" >
+    <normaloff>:/images/web32.png</normaloff>:/images/web32.png</iconset>
+  </property>
+  <widget class="QPushButton" name="pushButtonOK" >
+   <property name="geometry" >
+    <rect>
+     <x>180</x>
+     <y>140</y>
+     <width>113</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text" >
+    <string>OK</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget" >
+   <property name="geometry" >
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>441</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout" >
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout" >
+      <item>
+       <widget class="QTextEdit" name="textEdit" >
+        <property name="readOnly" >
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources>
+  <include location="icons.qrc" />
+ </resources>
+ <connections/>
+</ui>

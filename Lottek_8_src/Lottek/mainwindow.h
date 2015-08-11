@@ -1,3 +1,8 @@
+/*
+License: GPL 
+Owner: Marcin Brysz
+Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
+*/
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 

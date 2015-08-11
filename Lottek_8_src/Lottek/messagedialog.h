@@ -1,3 +1,8 @@
+/*
+License: GPL 
+Owner: Marcin Brysz
+Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
+*/
 #ifndef MESSAGEDIALOG_H
 #define MESSAGEDIALOG_H
 #include "ui_messagedialog.h"

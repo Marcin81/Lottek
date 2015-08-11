@@ -1,5 +1,9 @@
 # -------------------------------------------------
 # Project created by QtCreator 2009-03-25T12:07:31
+# License: GPL 
+# Owner: Marcin Brysz
+# Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
+
 # -------------------------------------------------
 QT += network
 TARGET = Lottek

@@ -1,3 +1,8 @@
+/*
+License: GPL 
+Owner: Marcin Brysz
+Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
+*/
 #include "colorchanger.h"
 #include <QWidget>
 #include <QSpinBox>

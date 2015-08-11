@@ -1,3 +1,8 @@
+/*
+License: GPL 
+Owner: Marcin Brysz
+Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
+*/
 #include "lottotools.h"
 #include <boost/assign/list_of.hpp>
 #include <boost/foreach.hpp>

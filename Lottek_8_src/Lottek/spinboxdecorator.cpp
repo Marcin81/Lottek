@@ -1,6 +1,10 @@
 #include "spinboxdecorator.h"
 #include <QSpinBox>
-
+/*
+License: GPL 
+Owner: Marcin Brysz
+Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
+*/
 SpinBoxDecorator::SpinBoxDecorator( QSpinBox* spinBox,
   const int row )
   : mSpinBox( spinBox ),

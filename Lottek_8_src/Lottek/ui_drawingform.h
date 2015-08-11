@@ -5,6 +5,10 @@
 **      by: Qt User Interface Compiler version 4.5.2
 **
 ** WARNING! All changes made in this file will be lost when recompiling ui file!
+** License: GPL 
+** Owner: Marcin Brysz
+** Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
+
 ********************************************************************************/
 
 #ifndef UI_DRAWINGFORM_H

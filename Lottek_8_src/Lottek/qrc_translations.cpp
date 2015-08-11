@@ -5,6 +5,10 @@
 **      by: The Resource Compiler for Qt version 4.5.2
 **
 ** WARNING! All changes made in this file will be lost!
+** License: GPL 
+** Owner: Marcin Brysz
+** Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
+
 *****************************************************************************/
 
 #include <QtCore/qglobal.h>

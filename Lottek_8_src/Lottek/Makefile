@@ -4,6 +4,9 @@
 # Project:  forAdam.pro
 # Template: app
 # Command: /Users/marcinbrysz/zrodla/qt_4.5.2_static_release/bin/qmake -spec ../../../zrodla/qt_4.5.2_static_release/mkspecs/macx-g++ -macx -o Makefile forAdam.pro
+# License: GPL 
+# Owner: Marcin Brysz
+# Contact: unemployed81@gmail.com / bryszmarcin@gmail.com
 #############################################################################
 
 ####### Compiler, tools and options
